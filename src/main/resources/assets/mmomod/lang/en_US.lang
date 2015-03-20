@@ -1,0 +1,10 @@
+key.tut_inventory.desc=MMO mod
+key.tutorial.label=Open Inventory
+tile.blockMarble.name=Marble
+tile.blockGreenLantern.name=Green Lantern
+item.itemBlueBag.name=Blue Bag
+item.foodPie.name=Pie
+item.foodBread.name=Bread V2
+item.foodBadApple.name=Bad Apple
+itemGroup.tabMMO=Test Items/Blocks
+itemGroup.tabMMOfood=MMO Food
